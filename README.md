@@ -9,6 +9,7 @@ Tenho focado meus estudos em **Python**
 - 🌍 Explorando novas tecnologias
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tauanebraz/tauanebraz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tauanebraz/tauanebraz/output/pacman-contribution-graph.svg">
