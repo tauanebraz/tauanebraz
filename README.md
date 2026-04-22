@@ -1,10 +1,14 @@
-# Oie, sou a Tauane Braz 
+<img  align="center" alt="Capa" width="900" height="350" alt="Tau (1)" src="https://github.com/user-attachments/assets/5ad0c28f-8bc0-4294-a212-d65d758ac5ea" />
 
-🎓 Atualmente cursando o 8° semestre de Sistemas de Informação na Universidade Cidade de São Paulo. 
+<br>
 
-🚀 Foco Atual:  Desenvolvimento Backend com Python
 
-💡 Interesse de Estudo: Cloud, IA e Cibersegurança.
+
+🎓 Atualmente cursando o 8° semestre de Sistemas de Informação na Universidade Cidade de São Paulo.  
+
+🚀 Foco Atual:  Desenvolvimento Backend com Python. 
+
+💡 Interesse de Estudo: Cloud, IA e Cibersegurança. 
 
 --- 
 ## 🛠️ Tecnologias e Ferramentas
