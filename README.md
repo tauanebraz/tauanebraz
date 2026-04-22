@@ -2,7 +2,7 @@
 
 🎓 Atualmente cursando o 8° semestre de Sistemas de Informação na Universidade Cidade de São Paulo. 
 
-🌏 Explorando novas tecnologias.
+🚀 Foco Atual:  Desenvolvimento Backend com Python
 
 💡 Interesse de Estudo: Cloud, IA e Cibersegurança.
 
@@ -17,9 +17,16 @@
 ✉️ Cartão Aniversário - 
 
 ---
-## 📚 Cursos realizados
-* Yellow Belt em Lean Six Sigma (Vivo)
-* Introduction to Cybersecurity (Cisco Networking Academy)
+## 📚 Cursos e Certificados
+Alura
+* Análise de Dados e IA (em estudos)
+
+Santander Jornada Tech AWS
+* Computação em Nuvem (em estudos)
+* Inteligência Artificial (em estudos)
+
+Cisco Networking Academy
+* Introduction to Cybersecurity 
 
 ---
 ## ✨ Estatística do GitHub
