@@ -1,8 +1,6 @@
-<img  align="center" alt="Capa" width="900" height="350" alt="Tau (1)" src="https://github.com/user-attachments/assets/5ad0c28f-8bc0-4294-a212-d65d758ac5ea" />
+<img  align="center" alt="Capa" width="900" height="350" src="https://github.com/user-attachments/assets/5ad0c28f-8bc0-4294-a212-d65d758ac5ea" />
 
 <br>
-
-
 
 🎓 Atualmente cursando o 8° semestre de Sistemas de Informação na Universidade Cidade de São Paulo.  
 
@@ -12,24 +10,22 @@
 
 --- 
 ## 🛠️ Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github,vscode&theme=dark)](https://skillicons.dev)
-
+<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="40"> <img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" width="40"> <img  alt="icons8-github-100" src="https://github.com/user-attachments/assets/8230baa4-6b42-48bd-aa78-a2db8c030bb8" width="40"> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="40"> <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="40">
 
 ---
 ## 📌 Projetos em destaque
-✉️ Cartão Aniversário - 
+✉️ **Cartão Aniversário** - 
 
 ---
 ## 📚 Cursos e Certificados
-Alura
+**Alura**
 * Análise de Dados e IA (em estudos)
 
-Santander Jornada Tech AWS
+**Santander Jornada Tech AWS**
 * Computação em Nuvem (em estudos)
 * Inteligência Artificial (em estudos)
 
-Cisco Networking Academy
+**Cisco Networking Academy**
 * Introduction to Cybersecurity 
 
 ---
