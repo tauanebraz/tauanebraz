@@ -26,7 +26,7 @@ Os dados (nome, e-mail e data) são armazenados e manipulados em formato JSON, p
 
 O projeto utiliza smtplib para envio de e-mails via protocolo SMTP e datetime para controle de datas e horários.
 
-🔗Link do projeto: 
+🔗Link do projeto:https://github.com/tauanebraz/cartao_aniversario.git
 
 **Gerador de QR Code (Python)** Projeto desenvolvido em Python para geração automatizada de QR Codes a partir de textos ou links.
 
