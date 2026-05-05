@@ -38,7 +38,7 @@ A aplicação permite:
 
 O projeto utiliza a biblioteca qrcode para criação e manipulação das imagens, com foco em automação e praticidade no uso.
 
-🔗 Link do Projeto:
+🔗 Link do Projeto:https://github.com/tauanebraz/Gerador_QrCode.git
 
 ---
 ## 📚 Cursos e Certificados
