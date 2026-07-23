@@ -2,11 +2,11 @@
 
 <br>
 
-🎓 Atualmente cursando o 8° semestre de Sistemas de Informação na Universidade Cidade de São Paulo.  
+🎓 Graduada em Sistemas de Informação na Universidade Cidade de São Paulo.  
 
-🚀 Foco Atual:  Desenvolvimento Backend com Python. 
+🚀 Foco Atual: Analise de Dados. 
 
-💡 Interesse de Estudo: Cloud, IA e Cibersegurança. 
+💡 Interesse de Estudo: Dados, IA e Cibersegurança. 
 
 --- 
 ## 🛠️ Tecnologias e Ferramentas
@@ -43,11 +43,11 @@ O projeto utiliza a biblioteca qrcode para criação e manipulação das imagens
 ---
 ## 📚 Cursos e Certificados
 **Alura**
-* Análise de Dados e IA (em estudos)
+* Análise de Dados e IA (concluído)
 
 **Santander Jornada Tech AWS**
-* Computação em Nuvem (em estudos)
-* Inteligência Artificial (em estudos)
+* Computação em Nuvem (concluído)
+* Inteligência Artificial (concluído)
 
 **Cisco Networking Academy**
 * Introduction to Cybersecurity 
