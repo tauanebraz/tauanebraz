@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C100%3ABC2A10&height=180&section=header&text=Tauane%20Braz&fontSize=50&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%" alt="Header banner" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=20&pause=1000&color=6D1C08&center=true&vCenter=true&width=600&height=44&lines=Data%20Analyst;IA%20Engineer" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D0B10%2C50%3A32143D%2C100%3A713B78&height=200&section=header&text=Tauane%20Braz&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%" alt="Header banner" />
 
 <h2>Sobre mim</h2>
 <img src="photo_readme.jpeg"
@@ -47,20 +43,26 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=tauanebraz&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tauanebraz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tauanebraz&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=tauanebraz&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tauanebraz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 ## Contribution Activity
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tauanebraz/tauanebraz/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tauanebraz/tauanebraz/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/tauanebraz/tauanebraz/output/pacman-contribution-graph.svg"
+  />
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tauanebraz/tauanebraz/output/pacman-contribution-graph.svg"
-       alt="Pac-Man Contribution Graph">
-</p>
 
 ## Connect with me
 
@@ -69,6 +71,9 @@
   <a href="mailto:tauanebs02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C100%3ABC2A10&height=180&section=footer&animation=fadeIn" width="100%" alt="Footer banner" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D0B10%2C50%3A32143D%2C100%3A713B78&height=180&section=footer&animation=fadeIn" width="100%" alt="Footer banner" />
+
 
 
