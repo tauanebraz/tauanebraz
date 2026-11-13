@@ -4,13 +4,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=20&pause=1000&color=6D1C08&center=true&vCenter=true&width=600&height=44&lines=Data%20Analyst;IA%20Engineer" alt="Typing SVG" />
 </p>
 
-## About Me
+<h2>Sobre mim</h2>
 
-🎓 Graduada em Sistemas de Informação na Universidade Cidade de São Paulo.  
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-🚀 Foco Atual: Analise de Dados. 
+      🎓 Graduada em Sistemas de Informação pela Universidade Cidade de São Paulo.
 
-💡 Interesse de Estudo: Dados, IA e Cibersegurança.
+      🚀 Foco Atual: Análise de Dados.
+
+      💡 Interesse de Estudo: Dados, IA e Cibersegurança.
+
+  </td>
+
+  <td width="35%" align="center" valign="middle">
+    <img src="<img width="1122" height="1402" alt="photo_readme" src="https://github.com/user-attachments/assets/fef4b144-7e8d-4799-840d-763661639241" />
+
+  </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
@@ -30,7 +43,7 @@
 **Cisco Networking Academy**
 * Introduction to Cybersecurity 
 
-## 🏆 Hackathons & Bounties
+## 🏆 Hackathons 
 * **Superteam Brasil — Privacy Week Winner** *(Outubro/2026)*
   * **Projeto:** [Cofre Privado](https://proxfrito.com.br/lab/cofre-privado)  
   * **Destaque:** Um dos 10 projetos premiados no sprint focado em privacidade na *mainnet* da Solana, integrando soluções como Cloak/Zcash durante o ciclo do Hackathon Colosseum.
