@@ -5,27 +5,22 @@
 </p>
 
 <h2>Sobre mim</h2>
+<img src="photo_readme.jpeg"
+     width="280"
+     align="right"
+     alt="Ilustração da desenvolvedora">
+  🎓 Graduada em Sistemas de Informação pela Universidade Cidade de São Paulo.
+      
+  🚀 Foco Atual: Análise de Dados.
+      
+  💡 Interesse de Estudo: Dados, IA e Cibersegurança.
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
 
-      🎓 Graduada em Sistemas de Informação pela Universidade Cidade de São Paulo.
-
-      🚀 Foco Atual: Análise de Dados.
-
-      💡 Interesse de Estudo: Dados, IA e Cibersegurança.
-
-  </td>
-
-  <td width="35%" align="center" valign="middle">
-    <img src="<img width="1122" height="1402" alt="photo_readme" src="https://github.com/user-attachments/assets/fef4b144-7e8d-4799-840d-763661639241" />
-
-  </td>
-  </tr>
-</table>
-
-## Tech Stack
+<h2>Tech Stack</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,mysql,git,github,docker,vscode&perline=10" alt="Tech stack" />
@@ -52,8 +47,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tauanebraz&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauanebraz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=tauanebraz&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tauanebraz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
