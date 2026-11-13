@@ -6,10 +6,10 @@
      align="right"
      alt="Ilustração da desenvolvedora">
   🎓 Graduada em Sistemas de Informação pela Universidade Cidade de São Paulo.
-      
+  
   🚀 Foco Atual: Análise de Dados.
       
-  💡 Interesse de Estudo: Dados, IA e Cibersegurança.
+  💡 Interesse de Estudo: LLMs, RAG, Deep Learning, Visão Computacional e Blockchain.
 
   <br></br>
   <br></br>
@@ -30,15 +30,15 @@
 **Santander Jornada Tech AWS**
 * Computação em Nuvem (concluído)
 * Inteligência Artificial (concluído)
-
-**Cisco Networking Academy**
-* Introduction to Cybersecurity 
-
+ 
 ## 🏆 Hackathons 
 * **Superteam Brasil — Privacy Week Winner** *(Outubro/2026)*
   * **Projeto:** [Cofre Privado](https://proxfrito.com.br/lab/cofre-privado)  
   * **Destaque:** Um dos 10 projetos premiados no sprint focado em privacidade na *mainnet* da Solana, integrando soluções como Cloak/Zcash durante o ciclo do Hackathon Colosseum.
 
+## 📌 Repositórios em destaque:
+* **[Cartão Aniversário](https://github.com/tauanebraz/cartao_aniversario)**
+* **[Guia de Boas Práticas](https://github.com/tauanebraz/Guia-de-boas-praticas)**
 
 ## GitHub Stats
 
@@ -63,7 +63,6 @@
   />
 </picture>
 
-
 ## Connect with me
 
 <p align="left">
@@ -71,9 +70,4 @@
   <a href="mailto:tauanebs02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D0B10%2C50%3A32143D%2C100%3A713B78&height=180&section=footer&animation=fadeIn" width="100%" alt="Footer banner" />
-
-
-
