@@ -30,8 +30,11 @@
 **Cisco Networking Academy**
 * Introduction to Cybersecurity 
 
-## 🏆 Conquistas
-* **Winner — Privacy Week (Superteam Brasil):** O **Cofre Privado** foi selecionado entre os 10 melhores projetos da edição, recebendo premiação oficial pela implementação de privacidade na *mainnet* da Solana.
+## 🏆 Hackathons & Bounties
+* **Superteam Brasil — Privacy Week Winner** *(Outubro/2026)*
+  * **Projeto:** [Cofre Privado](https://proxfrito.com.br/lab/cofre-privado)  
+  * **Destaque:** Um dos 10 projetos premiados no sprint focado em privacidade na *mainnet* da Solana, integrando soluções como Cloak/Zcash durante o ciclo do Hackathon Colosseum.
+
 
 ## GitHub Stats
 
