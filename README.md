@@ -58,7 +58,8 @@
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tauanebraz/tauanebraz/output/github-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/tauanebraz/tauanebraz/output/pacman-contribution-graph.svg"
+       alt="Pac-Man Contribution Graph">
 </p>
 
 ## Connect with me
